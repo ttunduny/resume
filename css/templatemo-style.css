@@ -279,7 +279,7 @@ hr {
   height: 100%;
   position: fixed;
   /*background-color: #5f6d7e;*/
-  background-color: #192a56;
+  background-color: #273c75;
   color: #e1b12c;
   /*overflow-y: hidden;*/
 }
@@ -337,7 +337,7 @@ h3.profile-title {
   background:#487eb0;
 }
 .main-navigation li a.active {
-  background: #273c75;
+  background: #487eb0;
 }
 .main-navigation li a.active:hover {
   background: #487eb0;/*#495461;*/
